@@ -1,19 +1,16 @@
 <!-- ================= TOP BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hussain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- ================= INTRO ================= -->
-<h1 align="center">Hi 👋 I'm Hussain</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Building+Cool+Projects;Always+Learning+New+Things" />
-</p>
+<!-- ================= NAME ================= -->
+<h1 align="center">Hi 👋, I'm Hussain</h1>
+<h3 align="center">Aspiring Software Developer</h3>
 
 ---
 
 <!-- ================= BADGES ================= -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=humaidi09&label=Profile+Views&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/humaidi09?label=Followers"/>
 </p>
 
 ---
@@ -23,16 +20,16 @@
 
 - 🎓 CSE Student  
 - 💻 Passionate about coding  
-- 🚀 Focused on real-world projects  
-- 🎯 Goal: Software Engineer  
+- 🚀 Learning Full Stack Development  
+- 🎯 Goal: Become Software Engineer  
 
 ---
 
-<!-- ================= TECH ================= -->
+<!-- ================= TECH STACK ================= -->
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,git,github,vscode,linux"/>
 </p>
 
 ---
@@ -41,27 +38,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=humaidi09&hide_border=true"/>
 </p>
 
 ---
 
 <!-- ================= GRAPH ================= -->
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=humaidi09&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ================= TROPHY ================= -->
-## 🏆 Achievements
+<!-- ================= EXTRA ================= -->
+## 📌 Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true"/>
-</p>
+- 🔹 Problem Solving  
+- 🔹 Web Development  
+- 🔹 Continuous Learning  
 
 ---
 
