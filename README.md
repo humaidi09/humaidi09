@@ -14,9 +14,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student  
-- 💻 Love building real-world projects  
+- 💻 Passionate about programming  
 - 🚀 Learning full-stack development  
-- 🎯 Goal: Professional Software Engineer  
+- 🎯 Goal: Become a Software Engineer  
 
 ---
 
@@ -49,24 +49,29 @@
 ---
 
 <!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects 💼
+
 <p align="center">
 
 <a href="https://github.com/humaidi09/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=portfolio&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/humaidi09/task-manager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=task-manager&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=task-manager&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/humaidi09/weather-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=weather-app&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=weather-app&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
+
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=portfolio&theme=tokyonight&hide_border=true"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=task-manager&theme=tokyonight&hide_border=true"/>
+💡 Each project focuses on solving real-world problems and improving practical skills.
 </p>
+
+---
+
 <!-- ================= FOOTER ================= -->
 <h3 align="center">⚡ Build. Improve. Repeat. ⚡</h3>
