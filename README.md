@@ -51,11 +51,24 @@
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-- 🔹 **Portfolio Website** — Personal website showcasing my work and skills  
-- 🔹 **Task Manager App** — Web app to manage daily tasks with login system  
-- 🔹 **Weather App** — Real-time weather using API integration  
+<p align="center">
 
----
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=YOUR_REPO_NAME2&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=YOUR_REPO_NAME3&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+<p align="center">
+💡 Each project focuses on solving real-world problems and improving practical skills.
+</p>
 
 <!-- ================= FOOTER ================= -->
 <h3 align="center">⚡ Build. Improve. Repeat. ⚡</h3>
