@@ -49,26 +49,24 @@
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
 <p align="center">
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/humaidi09/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=YOUR_REPO_NAME2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/humaidi09/task-manager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=task-manager&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=YOUR_REPO_NAME3&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/humaidi09/weather-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=weather-app&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
 <p align="center">
-💡 Each project focuses on solving real-world problems and improving practical skills.
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=portfolio&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=task-manager&theme=tokyonight&hide_border=true"/>
 </p>
-
 <!-- ================= FOOTER ================= -->
 <h3 align="center">⚡ Build. Improve. Repeat. ⚡</h3>
