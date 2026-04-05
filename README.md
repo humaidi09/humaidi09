@@ -16,7 +16,7 @@
 - 🎓 CSE Student  
 - 💻 Passionate about programming  
 - 🚀 Learning full-stack development  
-- 🎯 Goal: Software Engineer  
+- 🎯 Goal: Become a Software Engineer  
 
 ---
 
@@ -48,19 +48,26 @@
 
 ---
 
-<!-- ================= FEATURED (SAFE VERSION) ================= -->
+<!-- ================= FEATURED PROJECTS ================= -->
 ## 🚀 Featured Projects 💼
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidi09&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<a href="https://github.com/humaidi09?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_My_Projects-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
+<br>
+
 <p align="center">
-💡 Explore my repositories to see real-world projects and implementations.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humaidi09&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humaidi09&theme=tokyonight"/>
+</p>
+
+<br>
+
+<p align="center">
+💡 Building real-world projects and continuously improving problem-solving skills.
 </p>
 
 ---
