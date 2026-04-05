@@ -1,131 +1,72 @@
-<h1 align="center">Hey There 👋, I'm Hussain</h1>
-
-<h3 align="center">
-An Undergraduate Student of Computer Science & Engineering
-</h3>
+<!-- HEADER -->
+<h1 align="center">Hey 👋 I'm Hussain</h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/badge/subscribers-25k-red?style=flat&logo=youtube"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Building+Cool+Stuff;Always+Learning" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🧑‍💻 All of my projects are available at  
-  https://github.com/YOUR_USERNAME  
-
-- 📫 Reach me at: your@email.com  
-
-- 🔗 LinkedIn: your link  
-
----
-
-### 📊 Profile Overview
-
+<!-- PROFILE BADGES -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers"/>
 </p>
 
 ---
 
-### 📊 Contribution Stats
+<!-- ABOUT -->
+## 👨‍💻 About Me
+
+- 🎓 Student & Developer  
+- 💡 Love solving problems  
+- 🚀 Focused on real-world projects  
+
+---
+
+<!-- STATS GRID -->
+## 📊 Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- TECH STACK -->
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,vscode,linux"/>
 </p>
 
 ---
 
-### 🧠 Languages
+<!-- EXTRA STACK -->
+## 🧰 Tools & Platforms
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LaTeX-green?style=for-the-badge"/>
-</p>
-
----
-
-### ⚙️ Framework & Library
-
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge"/>
-</p>
-
----
-
-### 💻 IDE
-
-<p align="center">
-<img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge"/>
-</p>
-
----
-
-### 🗄 Database
-
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🎨 Design
+<!-- TROPHY -->
+## 🏆 Achievements
 
 <p align="center">
-<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true"/>
 </p>
 
 ---
 
-### 💻 Operating System
-
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge"/>
-</p>
-
----
-
-### 🧩 Coding Platforms
-
-<p align="center">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center">~~~ Hope you have a great day! ~~~</h3>
-
----
-
-### 🔗 Connect
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge"/></a>
-</p>
+<!-- FOOTER -->
+<h3 align="center">⚡ Keep Building. Stay Consistent. ⚡</h3>
