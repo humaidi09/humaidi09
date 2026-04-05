@@ -1,9 +1,12 @@
 <!-- ================= TOP BANNER ================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hussain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- ================= NAME ================= -->
-<h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<!-- ================= INTRO ================= -->
+<h1 align="center">Hey 👋 I'm Hussain</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Love+Building+Projects;Always+Learning" />
+</p>
 
 ---
 
@@ -19,9 +22,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student  
-- 💻 Passionate about coding  
-- 🚀 Learning Full Stack Development  
-- 🎯 Goal: Become Software Engineer  
+- 💻 Passionate about programming  
+- 🚀 Learning full-stack development  
+- 🎯 Goal: Become a skilled Software Engineer  
 
 ---
 
@@ -29,7 +32,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,vscode,linux"/>
 </p>
 
 ---
@@ -38,27 +41,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=humaidi09&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=humaidi09"/>
 </p>
 
 ---
 
 <!-- ================= GRAPH ================= -->
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=humaidi09&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=humaidi09"/>
 </p>
 
 ---
 
-<!-- ================= EXTRA ================= -->
-## 📌 Focus
+<!-- ================= TROPHY (SAFE VERSION) ================= -->
+## 🏆 Achievements
 
-- 🔹 Problem Solving  
-- 🔹 Web Development  
-- 🔹 Continuous Learning  
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=humaidi09"/>
+</p>
 
 ---
 
