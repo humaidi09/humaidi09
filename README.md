@@ -16,7 +16,7 @@
 - 🎓 CSE Student  
 - 💻 Passionate about programming  
 - 🚀 Learning full-stack development  
-- 🎯 Goal: Become a Software Engineer  
+- 🎯 Goal: Software Engineer  
 
 ---
 
@@ -48,25 +48,19 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= FEATURED (SAFE VERSION) ================= -->
 ## 🚀 Featured Projects 💼
 
 <p align="center">
 
-<a href="https://github.com/humaidi09">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
 
-<a href="https://github.com/humaidi09">
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidi09&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
 
 </p>
 
 <p align="center">
-💡 Check my repositories for real-world projects and implementations.
-</p>
-💡 Each project focuses on solving real-world problems and improving practical skills.
+💡 Explore my repositories to see real-world projects and implementations.
 </p>
 
 ---
