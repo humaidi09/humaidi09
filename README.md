@@ -29,12 +29,12 @@
 
 ---
 
-<!-- ================= STATS ================= -->
+<!-- ================= STATS (SAFE VERSION) ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=humaidi09&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidi09&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
+<!-- ================= FEATURED (SAFE GRAPHICS) ================= -->
 ## 🚀 Featured Projects 💼
 
 <p align="center">
@@ -67,7 +67,7 @@
 <br>
 
 <p align="center">
-💡 Building real-world projects and continuously improving problem-solving skills.
+💡 Building real-world projects and continuously improving practical skills.
 </p>
 
 ---
