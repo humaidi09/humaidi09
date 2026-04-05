@@ -1,23 +1,19 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hussain</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<!-- ================= TOP BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<!-- ================= INTRO ================= -->
+<h1 align="center">Hi 👋 I'm Hussain</h1>
 
 <p align="center">
-Focused on building clean, scalable and impactful software.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Building+Cool+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<!-- ================= SOCIAL ================= -->
+<!-- ================= BADGES ================= -->
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers"/>
 </p>
 
 ---
@@ -26,30 +22,17 @@ Focused on building clean, scalable and impactful software.
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student  
-- 💡 Passionate about coding & problem solving  
-- 🚀 Currently learning full-stack development  
-- 🎯 Goal: Become a skilled software engineer  
+- 💻 Passionate about coding  
+- 🚀 Focused on real-world projects  
+- 🎯 Goal: Software Engineer  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECH ================= -->
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,linux,vscode"/>
-</p>
-
----
-
-<!-- ================= TOOLS ================= -->
-## 🧰 Tools & Technologies
-
-<p align="center">
-<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,git,github,linux,vscode"/>
 </p>
 
 ---
@@ -58,8 +41,8 @@ Focused on building clean, scalable and impactful software.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -68,7 +51,7 @@ Focused on building clean, scalable and impactful software.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -77,21 +60,10 @@ Focused on building clean, scalable and impactful software.
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true"/>
 </p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-- 🔹 Project Name — short description  
-- 🔹 Project Name — short description  
-- 🔹 Project Name — short description  
 
 ---
 
 <!-- ================= FOOTER ================= -->
-<p align="center">
-Consistent effort builds mastery.
-</p>
+<h3 align="center">⚡ Keep Building. Stay Consistent. ⚡</h3>
