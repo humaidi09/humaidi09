@@ -3,6 +3,9 @@
 ---
 
 ### ░▒▓█ WHOAMI █▓▒░
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub;I+love+coding;Always+learning" />
+</p>
 I am a passionate developer learning programming and building projects.
 
 ---
