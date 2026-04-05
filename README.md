@@ -1,19 +1,11 @@
-<!-- ================= TOP BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hussain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<!-- ================= BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Hussain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Future%20with%20Code&descAlignY=55&descSize=18"/>
 
 <!-- ================= INTRO ================= -->
-<h1 align="center">Hey 👋 I'm Hussain</h1>
+<h1 align="center">Hi 👋 I'm Hussain</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Love+Building+Projects;Always+Learning" />
-</p>
-
----
-
-<!-- ================= BADGES ================= -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=humaidi09&label=Profile+Views&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/humaidi09?label=Followers"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Passionate+Coder;Always+Learning" />
 </p>
 
 ---
@@ -22,17 +14,17 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Student  
-- 💻 Passionate about programming  
+- 💻 Love building real-world projects  
 - 🚀 Learning full-stack development  
-- 🎯 Goal: Become a skilled Software Engineer  
+- 🎯 Goal: Professional Software Engineer  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ================= TECH ================= -->
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,git,github,linux,vscode&perline=5"/>
 </p>
 
 ---
@@ -41,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=humaidi09"/>
+<img src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=humaidi09&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -51,19 +43,19 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=humaidi09"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=humaidi09&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ================= TROPHY (SAFE VERSION) ================= -->
-## 🏆 Achievements
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=humaidi09"/>
-</p>
+- 🔹 **Portfolio Website** — Personal website showcasing my work and skills  
+- 🔹 **Task Manager App** — Web app to manage daily tasks with login system  
+- 🔹 **Weather App** — Real-time weather using API integration  
 
 ---
 
 <!-- ================= FOOTER ================= -->
-<h3 align="center">⚡ Keep Building. Stay Consistent. ⚡</h3>
+<h3 align="center">⚡ Build. Improve. Repeat. ⚡</h3>
