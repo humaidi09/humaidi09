@@ -136,6 +136,11 @@ class Hussain:
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaidi09&theme=react-dark&bg_color=00000000&color=00c6ff&line=00c6ff&point=ffffff&hide_border=true&area=true"/>
 </p>
 
+<!-- 3D contribution calendar -->
+<p align="center">
+<img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</p>
+
 <!-- snake -->
 <p align="center">
 <img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
