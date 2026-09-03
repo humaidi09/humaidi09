@@ -55,32 +55,54 @@ class Hussain:
 
 > Each of these is a real, dependency-light codebase with its own test suite and GitHub Actions CI running on **Linux, macOS and Windows**.
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 <a href="https://github.com/humaidi09/Sudoku-Solver">
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=Sudoku-Solver&theme=transparent&hide_border=false&border_color=00c6ff&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&border_radius=12" />
-</a>
+<img width="72" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" /><br/>
+<b>Sudoku Solver</b>
+</a><br/>
+<sub>C++17 · Backtracking</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/humaidi09/Banking-System">
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=Banking-System&theme=transparent&hide_border=false&border_color=00c6ff&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&border_radius=12" />
-</a>
-</p>
-
-<p align="center">
+<img width="72" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" /><br/>
+<b>Banking System</b>
+</a><br/>
+<sub>C++17 · Ledger Integrity</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/humaidi09/Login-Registration-System">
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=Login-Registration-System&theme=transparent&hide_border=false&border_color=00c6ff&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&border_radius=12" />
-</a>
+<img width="72" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" /><br/>
+<b>Login &amp; Registration</b>
+</a><br/>
+<sub>C++17 · SHA-256</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 <a href="https://github.com/humaidi09/Restaurant-Management-System">
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=Restaurant-Management-System&theme=transparent&hide_border=false&border_color=00c6ff&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&border_radius=12" />
-</a>
-</p>
-
-<p align="center">
+<img width="72" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife%20with%20Plate.png" /><br/>
+<b>Restaurant Management</b>
+</a><br/>
+<sub>Python · State Machine</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/humaidi09/World-Cup-2026">
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=World-Cup-2026&theme=transparent&hide_border=false&border_color=00c6ff&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&border_radius=12" />
-</a>
+<img width="72" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" /><br/>
+<b>World Cup 2026</b>
+</a><br/>
+<sub>Python · OOP</sub>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/humaidi09/CGPA-Calculator">
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=humaidi09&repo=CGPA-Calculator&theme=transparent&hide_border=false&border_color=00c6ff&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&border_radius=12" />
-</a>
-</p>
+<img width="72" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" /><br/>
+<b>CGPA Calculator</b>
+</a><br/>
+<sub>C++ · CLI</sub>
+</td>
+</tr>
+</table>
 
 | Project | What it shows off |
 |---------|-------------------|
