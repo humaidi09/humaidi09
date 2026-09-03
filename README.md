@@ -91,6 +91,16 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidi09&layout=compact&theme=transparent&hide_border=true&title_color=00c6ff&text_color=8b949e&langs_count=8"/>
 </p>
 
+<!-- 3D contribution calendar -->
+<p align="center">
+<img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</p>
+
+<!-- snake -->
+<p align="center">
+<img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 <br/>
 
 <!-- ================= CONNECT ================= -->
