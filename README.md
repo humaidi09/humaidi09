@@ -106,15 +106,11 @@ class Hussain:
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-<!-- ================= 3D CONTRIBUTION ================= -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> Contribution Activity
+<!-- ================= SNAKE GAME ================= -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> Watch the Snake Eat My Contributions 🐍
 
 <p align="center">
-<img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</p>
-
-<p align="center">
-<img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/output/github-contribution-grid-snake-dark.svg" alt="snake game eating contribution graph" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
