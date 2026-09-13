@@ -51,6 +51,20 @@ class Hussain:
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <!-- ================= FEATURED PROJECTS ================= -->
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hussain Ahmed's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidi09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=humaidi09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
 ## <img src="https://media.giphy.com/media/W5eBHnQIQdcHytKFkK/giphy.gif" width="30"> Featured Projects
 
 > Each of these is a real, dependency-light codebase with its own test suite and GitHub Actions CI running on **Linux, macOS and Windows**.
