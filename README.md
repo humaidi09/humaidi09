@@ -8,6 +8,7 @@
 
 <!-- ================= BADGES ================= -->
 <p align="center">
+<a href="https://humaidi.me"><img src="https://img.shields.io/badge/Portfolio-humaidi.me-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://github.com/humaidi09?tab=followers"><img src="https://img.shields.io/github/followers/humaidi09?label=Followers&style=for-the-badge&color=00c6ff&labelColor=0d1117&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=humaidi09&label=Profile%20Views&color=00c6ff&style=for-the-badge&labelColor=0d1117" />
 <a href="https://github.com/humaidi09?tab=repositories"><img src="https://img.shields.io/badge/Projects-6-00c6ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" /></a>
@@ -135,6 +136,9 @@ class Hussain:
 ## <img src="https://media.giphy.com/media/LnQ1Xj4uHqfM4/giphy.gif" width="30"> Connect With Me
 
 <p align="center">
+<a href="https://humaidi.me">
+<img src="https://img.shields.io/badge/Portfolio-humaidi.me-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/>
+</a>
 <a href="https://www.linkedin.com/in/hussain-ahmed-02264a39a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
