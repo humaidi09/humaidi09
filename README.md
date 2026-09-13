@@ -58,6 +58,10 @@ class Hussain:
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/humaidi09/humaidi09/main/github-metrics.svg" alt="Hussain Ahmed's GitHub metrics" />
+</p>
+
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=humaidi09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
