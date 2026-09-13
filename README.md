@@ -55,8 +55,6 @@ class Hussain:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=humaidi09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hussain Ahmed's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaidi09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -125,15 +123,6 @@ class Hussain:
 
 <p align="center">
 <img width="98%" src="https://raw.githubusercontent.com/humaidi09/humaidi09/output/github-contribution-grid-snake-dark.svg" alt="snake game eating contribution graph" />
-</p>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<!-- ================= TROPHIES ================= -->
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=humaidi09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
