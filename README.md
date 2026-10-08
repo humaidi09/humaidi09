@@ -32,11 +32,11 @@ class Hussain:
         self.philosophy = "Correct, not just working."
 ```
 
-- 🎓 Computer Science & Engineering student at **Leading University, Sylhet**
-- 💻 I care about clean, **tested** code — every project below ships with a unit-test suite and cross-platform CI
-- 🧠 Competitive programmer, comfortable with data structures, algorithms and OOP
-- 🌱 Currently going deeper into **full-stack development** with React
-- 🎯 Goal: become a software engineer who builds things that are **correct**, not just working
+-  Computer Science & Engineering student at **Leading University, Sylhet**
+-  I care about clean, **tested** code — every project below ships with a unit-test suite and cross-platform CI
+-  Competitive programmer, comfortable with data structures, algorithms and OOP
+-  Currently going deeper into **full-stack development** with React
+-  Goal: become a software engineer who builds things that are **correct**, not just working
 
 <br clear="right"/>
 
